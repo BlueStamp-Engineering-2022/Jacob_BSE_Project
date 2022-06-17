@@ -24,4 +24,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 # Starter Project
 My starter project was the simon says machine. it was basically just a soldering introduction and the biggest trouble I was having was soldering in the micro controller without linking any of the pins and without burning the plastic. The process of making it was just soldering in leds, a microcontroller, power swtiches, a buzzer, two capacitors, and a resistor onto a board and just screwing on the cover. Overall it was pretty easy and a good introduction to soldering.
 
- [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3BKFrS9bUfo "Starter Project"){:target="_blank" rel="noopener"}
+ [![Starter Project](https://drive.google.com/file/d/1wugBye-Zmeu_F3L6_N-riIF_d-U0499W/view)](https://www.youtube.com/watch?v=3BKFrS9bUfo "Starter Project"){:target="_blank" rel="noopener"}

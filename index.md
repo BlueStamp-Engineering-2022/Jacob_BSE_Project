@@ -1,7 +1,7 @@
 ﻿# 3D LED compass 
 This project creates a compass that displays where north is in a both horizontal and vertical space using Neopixels. 
 
-| Jacob Merin | Jewish Community Highschool of the Bay | Physics | Rising junior |
+| Jacob | Jewish Community Highschool of the Bay | Physics | Rising junior |
 
 
 ![image](https://user-images.githubusercontent.com/107579653/174336529-053362b9-7f7f-4844-b4ea-8fcfc8bf6103.png)

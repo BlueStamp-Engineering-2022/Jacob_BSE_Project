@@ -20,7 +20,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was a rough assembly of the compass outside of the frame to make sure that the code I wrote first. The code is going to take some calibration during final assembly but the software works.
 
-[![First Milestone](https://drive.google.com/file/d/1GY5628sXTyUKrqoSnjApbPEC_qr7O_6b/view)](https://www.youtube.com/watch?v=hbI8-BUiuUs "First Milestone")
+[![First Milestone]([![Jacob Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657037049/video_to_markdown/images/youtube--hbI8-BUiuUs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hbI8-BUiuUs "Jacob Milestone 1"))
 # Starter Project
 My starter project was the simon says machine. it was basically just a soldering introduction and the biggest trouble I was having was soldering in the micro controller without linking any of the pins and without burning the plastic. The process of making it was just soldering in leds, a microcontroller, power swtiches, a buzzer, two capacitors, and a resistor onto a board and just screwing on the cover. Overall it was pretty easy and a good introduction to soldering.
 

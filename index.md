@@ -18,7 +18,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was a rough assembly of the compass outside of the frame to make sure that the code I wrote first. The code is going to take some calibration during final assembly but the software works.
+My first milestone was a rough assembly of the compass outside of the frame to make sure that the code I wrote first. The code is going to take some calibration during final assembly but the software works. I had to slog through some trig in order to get the code functioning and I had to subtract 360 to shift the compass to my perspective, but after that the project ran well. 
 
 ([![Jacob Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657037049/video_to_markdown/images/youtube--hbI8-BUiuUs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hbI8-BUiuUs "Jacob Milestone 1"))
 # Starter Project

@@ -9,8 +9,7 @@ This project creates a compass that displays where north is in a both horizontal
 # Second Milestone
 My second milestone was the final assembly for the neopxiel rings. I suffered a lot of issues with my wiring and I was shorting to ground a lot, however I heat shrank a lot of my wires, which resolved a bunch of of the issues, and from there it was a matter of finalizing my code and getting some work done on a modification and doing some trouble shooting.
 
-([![Jacob Merin milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658509658/video_to_markdown/images/youtube--NaH9aJIqN-U-
-
+[![Jacob Merin milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658509658/video_to_markdown/images/youtube--NaH9aJIqN-U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=NaH9aJIqN-U "Jacob Merin milestone 2")
 # First Milestone
   
 
